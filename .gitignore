@@ -16,4 +16,9 @@
 # Add items to be ignored below                                                 #
 #################################################################################
 
-
+/Output
+/Analyzer
+/FileSync
+/Project/Users
+/.gitignore
+/.svn
